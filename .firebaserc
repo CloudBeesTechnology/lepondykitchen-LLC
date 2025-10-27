@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "restaurant-multi-vendor",
+    "hosting": "le-pondy-kitchen"
+  },
+  "targets": {},
+  "etags": {}
+}

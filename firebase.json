@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"lepondycloudkitchen","configurations":{"web":"1:413440499814:web:436eaebeeec3d3c5fb0da7"}}}}},"hosting":{"site":"lepondycloudkitchen","public":"build/web","ignore":["firebase.json","**/.*","**/node_modules/**"],"rewrites":[{"source":"**","destination":"/index.html"}]}}

@@ -1,0 +1,4 @@
+# enable riverpod_lint
+analyzer:
+  plugins:
+    - custom_lint
